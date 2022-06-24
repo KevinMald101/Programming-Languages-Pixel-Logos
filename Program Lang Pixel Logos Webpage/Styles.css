@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(21, 20, 20);
+}
+
+h1 {
+    color:snow;
+    text-align: center;
+}
+
+#Contenter {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    background-color: #6247cc;
+    padding: 10px;
+
+    margin: 0px 100px 0px 100px;
+    gap: 3px 3px;
+}
+
+
+.Items {
+    background-color: snow;
+    border: 5px solid #441cbd;
+    padding: 20px;
+    text-align: center;
+    
+  }
